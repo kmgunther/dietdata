@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1592260108518.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "403926734",
+    "id" : "C2052C42",
+    "lastKnownWriteTime" : 1592266587,
+    "last_content_update" : 1592266587030,
+    "path" : "~/Desktop/REEM/dietdata_firstpass/foragefishmaps_ebs2013-16data.R",
+    "project_path" : "foragefishmaps_ebs2013-16data.R",
+    "properties" : {
+        "cursorPosition" : "47,23",
+        "scrollLine" : "30",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

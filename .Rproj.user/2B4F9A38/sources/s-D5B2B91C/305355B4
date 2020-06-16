@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1592262708748.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "305355B4",
+    "lastKnownWriteTime" : 140690277330320,
+    "last_content_update" : 1592262708748,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "CFE12820",
+        "caption" : "sandlance",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=sandlance&cache_key=CFE12820",
+        "displayedObservations" : "31",
+        "environment" : "",
+        "expression" : "sandlance",
+        "object" : "sandlance",
+        "preview" : "0",
+        "totalObservations" : "31",
+        "variables" : "2"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
